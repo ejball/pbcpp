@@ -11,3 +11,7 @@ A C++ library for writing Pebble watchfaces and apps.
 * **Fewer underscores.** I don't like typing so_many_underscores. I prefer camelCase.
 * **Write C++.** It's been a long time since I wrote C++ for my day job; it is good to get familiar with it again.
 * **Have fun.** I enjoy writing class libraries, and the constraints of the Pebble platform make it even more interesting.
+
+## Apps using pbcpp
+
+[![jsonface](https://raw.githubusercontent.com/ejball/jsonface/master/screenshot.png)](https://github.com/ejball/jsonface)
