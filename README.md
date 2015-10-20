@@ -12,6 +12,10 @@ A C++ library for writing Pebble watchfaces and apps.
 * **Write C++.** It's been a long time since I wrote C++ for my day job; it is good to get familiar with it again.
 * **Have fun.** I enjoy writing class libraries, and the constraints of the Pebble platform make it even more interesting.
 
-## Apps using pbcpp
+## Watchfaces using pbcpp
 
 [![jsonface](https://raw.githubusercontent.com/ejball/jsonface/master/screenshot.png)](https://github.com/ejball/jsonface)
+
+## Acknowledgements
+
+Thanks to [FarzHemmati](https://forums.getpebble.com/discussion/11495/c-on-the-pebble), [wvenable](https://forums.getpebble.com/discussion/22437/c-compiler), and [Luke Foreman](https://forums.getpebble.com/discussion/comment/154471/) for figuring out how to get C++ to work.
