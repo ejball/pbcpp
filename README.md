@@ -18,4 +18,4 @@ A C++ library for writing Pebble watchfaces and apps.
 
 ## Acknowledgements
 
-Thanks to [FarzHemmati](https://forums.getpebble.com/discussion/11495/c-on-the-pebble), [wvenable](https://forums.getpebble.com/discussion/22437/c-compiler), and [Luke Foreman](https://forums.getpebble.com/discussion/comment/154471/) for figuring out how to get C++ to work.
+Thanks to [FarzHemmati](https://forums.getpebble.com/discussion/11495/c-on-the-pebble), [wvenable](https://forums.getpebble.com/discussion/22437/c-compiler), and [LukeForeman](https://forums.getpebble.com/discussion/comment/154471/) for figuring out how to get C++ to work.
