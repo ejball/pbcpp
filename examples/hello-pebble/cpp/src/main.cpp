@@ -1,4 +1,4 @@
-#include "../../../include/pbcpp.cpp"
+#include "../../../../include/pbcpp.cpp"
 
 using namespace pbcpp;
 
@@ -11,6 +11,7 @@ public:
       .addChild(_textLayer)
       .open();
   }
+
 private:
   PbWindow _window;
   PbTextLayer _textLayer;
