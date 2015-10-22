@@ -21,7 +21,7 @@ A C++ library for writing Pebble watchfaces and apps.
 
 ## Overview
 
-To use pbcpp, follow the lead of one of the [example projects](examples), which contain C and C++ versions of various tutorials on the [Pebble Developer](http://developer.getpebble.com/) site. Basically, you'll need to make a few changes to your [`wscript`](examples/hello-pebble/cpp/wscript), rename [`main.c`](examples/hello-pebble/c/src/main.c) to [`main.cpp`](examples/hello-pebble/c/src/main.cpp), and `#include "path/to/pbcpp.hpp"` at the top.
+To use pbcpp, follow the lead of one of the [example projects](examples), which contain C and C++ versions of various tutorials on the [Pebble Developer](http://developer.getpebble.com/) site. Basically, you'll need to make a few changes to your [`wscript`](examples/hello-pebble/cpp/wscript), rename [`main.c`](examples/hello-pebble/c/src/main.c) to [`main.cpp`](examples/hello-pebble/cpp/src/main.cpp), and `#include "path/to/pbcpp.hpp"` at the top.
 
 ## Acknowledgements
 
