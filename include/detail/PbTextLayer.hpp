@@ -6,7 +6,7 @@ class PbTextLayer : public PbTextLayerRef, public PbNoncopyable {
 public:
   PbTextLayer() {}
 
-  PbTextLayer & create(PbRect frame) {
+  PbTextLayer & create(const PbRect & frame) {
     destroy();
     _handle = text_layer_create(frame);
     return *this;

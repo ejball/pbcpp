@@ -9,7 +9,6 @@ public:
   PbBitmap & createWithResource(uint32_t resourceId) {
     destroy();
     _handle = gbitmap_create_with_resource(resourceId);
-    PB_ASSERT(_handle != nullptr);
     return *this;
   }
 

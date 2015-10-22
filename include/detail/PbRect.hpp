@@ -2,13 +2,13 @@
 #error Include pbcpp.hpp instead.
 #endif
 
-struct PbRect : GRect {
+struct PbRect : public GRect {
 public:
   PbRect() {
     memset(this, 0, sizeof(PbRect));
   }
 
-  explicit PbRect(GRect rect) {
+  explicit PbRect(const GRect & rect) {
     memcpy(this, &rect, sizeof(GRect));
   }
 
